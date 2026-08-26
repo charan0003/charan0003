@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=charan0003&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-fast.vercel.app/api?username=charan0003&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=charan0003&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=charan0003&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
